@@ -1,0 +1,8 @@
+faiss-cpu
+numpy
+qdrant-client
+langchain
+ipython
+notebook
+euriai
+python-dotenv
