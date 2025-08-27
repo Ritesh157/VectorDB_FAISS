@@ -6,3 +6,6 @@ ipython
 notebook
 euriai
 python-dotenv
+scikit-learn
+matplotlib
+seaborn
